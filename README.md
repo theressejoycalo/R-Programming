@@ -1,19 +1,3 @@
----
-title: 'Programming in R: Solutions for the Exam-part 1 (28/01/2022)'
-output:
-  pdf_document: default
-  html_document: default
-  word_document: default
-subtitle: 'THERESSE JOY VILLARIEZ CALO (DL-2022)'
-layout: page
----
-
----
-output: html_document
-  use_bookdown: TRUE
---- 
-
-
 This document has been submitted for the Basic R Programming course at UHasselt School Year 2021-2022. The final output can be viewed in the PDF file "Exam_Part1_2021_December(Solutions).pdf"
 
 
