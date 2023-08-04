@@ -1,5 +1,3 @@
-# Description
-
 This document has been submitted for the Basic R Programming course at UHasselt School Year 2021-2022. The final output can be viewed in the PDF file "Exam_Part1_2021_December(Solutions).pdf"
 
 ---
